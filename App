@@ -1,0 +1,417 @@
+<!-- Google Tag Manager (noscript) -->
+    <noscript>&lt;iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NBMRDKQ" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;</noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <noscript>
+        &lt;p&gt;Your browser has Javascript disabled. Please go to your browser preferences and enable Javascript in order to use Scratch.&lt;/p&gt;
+    </noscript>
+    <div id="app">
+        <div class="page">
+            <nav class="" id="navigation">
+                <div class="inner">
+                    <ul>
+                        <li class="logo"><a aria-label="Scratch" href="/"></a></li>
+                        <li class="link create"><a href="/projects/editor/?tutorial=getStarted"><span>作る</span></a></li>
+                        <li class="link explore"><a href="/explore/projects/all"><span>見る</span></a></li>
+                        <li class="link ideas"><a href="/ideas"><span>アイデア</span></a></li>
+                        <li class="link about"><a href="/about"><span>Scratchについて</span></a></li>
+                        <li class="search">
+                            <form class="form" novalidate=""><button class="button btn-search" aria-label="検索" type="submit"></button>
+                                <div class="form-group row search-wrapper no-label"><label class="control-label col-sm-3" data-required="false" for="frc-q-1088"></label>
+                                    <div class="col-sm-9"><input class="input" aria-label="検索" name="q" placeholder="検索" type="text" id="frc-q-1088" value="" /><span class="help-block">Not Required</span></div>
+                                </div>
+                            </form>
+                        </li>
+                        <li class="link right join"><a class="registrationLink" href="#"><span>Scratchに参加しよう</span></a></li>
+                        <li class="link right login-item"><a class="ignore-react-onclickoutside" href="#"><span>サインイン</span></a>
+                            <div class="dropdown with-arrow">
+                                <div class="login">
+                                    <form class="form" novalidate=""><label for="username"><span>ユーザー名</span></label>
+                                        <div class="form-group row no-label"><label class="control-label col-sm-3" data-required="true" for="frc-username-1088"><span class="required-symbol"> *</span></label>
+                                            <div class="col-sm-9"><input class="input" required="" maxlength="30" name="username" type="text" id="frc-username-1088" value="" /></div>
+                                        </div><label for="password"><span>パスワード</span></label>
+                                        <div class="form-group row no-label"><label class="control-label col-sm-3" data-required="true" for="frc-password-1088"><span class="required-symbol"> *</span></label>
+                                            <div class="col-sm-9"><input class="input" required="" name="password" type="password" id="frc-password-1088" value="" /></div>
+                                        </div>
+                                        <div class="flex-row submit-row"><button class="button submit-button white" type="submit"><span>サインイン</span></button><a href="/accounts/password_reset/"><span>ヘルプが必要ですか？</span></a></div>
+                                    </form>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+            <main id="view">
+                <div class="splash">
+                    <div class="title-banner donate-banner">
+                        <div class="donate-container"><img aria-hidden="true" class="donate-icon" src="/images/ideas/try-it-icon.svg" />
+                            <div class="donate-central-items">
+                                <p class="donate-text"><span>Scratchは世界最大の子どものための無料コーディングコミュニティーです。支援をよろしくお願いいたします。</span></p><button class="button donate-button"><span>寄付</span></button>
+                            </div>
+                        </div><button class="button donate-close-button forms-close-button" name="closeButton" type="button"><img alt="close-icon" class="modal-content-close-img" draggable="false" src="/svgs/modal/close-x.svg" /></button>
+                    </div>
+                    <div class="title-banner intro-banner">
+                        <div class="flex-row intro-container">
+                            <div class="flex-row intro-content column">
+                                <h1 class="intro-header"><span>物語や、ゲーム、アニメーションを作ろう</span><br /><span>世界中のみんなと共有しよう</span></h1>
+                                <div class="flex-row intro-buttons"><a class="intro-button create-button button" href="/create">作ってみよう</a><a class="intro-button join-button button" href="#">参加する</a></div>
+                            </div>
+                            <div class="flex-row intro-video-container">
+                                <div class="video-image"><img src="/svgs/intro/video-image.svg" /><a href="#">
+                                        <div class="watch-button button">ビデオを見る</div>
+                                    </a></div>
+                            </div>
+                        </div>
+                        <div class="flex-row intro-subnav"><a href="/about">
+                                <div class="subnav-button button">Scratchについて</div>
+                            </a><a href="/parents">
+                                <div class="subnav-button button">保護者の方へ</div>
+                            </a><a href="/educators">
+                                <div class="subnav-button button">教育関係者の方へ</div>
+                            </a></div>
+                    </div>
+                    <div class="inner mod-splash">
+                        <div class="box">
+                            <div class="box-header">
+                                <h4>注目のプロジェクト</h4>
+                                <p><a></a></p>
+                            </div>
+                            <div class="box-content">
+                                <div class="slick-initialized slick-slider carousel"><button type="button" data-role="none" class="slick-arrow slick-prev slick-disabled" style="display: block;"> Previous</button>
+                                    <div class="slick-list">
+                                        <div class="slick-track" style="opacity: 1; transform: translate3d(0px, 0px, 0px); width: 5400px;">
+                                            <div class="thumbnail project slick-slide slick-active"><a class="thumbnail-image" href="/projects/806246880/"><img alt="" src="//uploads.scratch.mit.edu/projects/thumbnails/806246880.png" /></a>
+                                                <div class="thumbnail-info">
+                                                    <div class="thumbnail-title"><a href="/projects/806246880/" title="Juggling / ジャグリング">Juggling / ジャグリング</a>
+                                                        <div class="thumbnail-creator"><a href="/users/Ceratophrys/">Ceratophrys</a></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="thumbnail project slick-slide slick-active"><a class="thumbnail-image" href="/projects/730507725/"><img alt="" src="//uploads.scratch.mit.edu/projects/thumbnails/730507725.png" /></a>
+                                                <div class="thumbnail-info">
+                                                    <div class="thumbnail-title"><a href="/projects/730507725/" title="三色光混色">三色光混色</a>
+                                                        <div class="thumbnail-creator"><a href="/users/asherscratch3/">asherscratch3</a></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="thumbnail project slick-slide slick-active"><a class="thumbnail-image" href="/projects/821686540/"><img alt="" src="//uploads.scratch.mit.edu/projects/thumbnails/821686540.png" /></a>
+                                                <div class="thumbnail-info">
+                                                    <div class="thumbnail-title"><a href="/projects/821686540/" title="Smooth Movement Engine">Smooth Movement Engine</a>
+                                                        <div class="thumbnail-creator"><a href="/users/ninjanibb/">ninjanibb</a></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="thumbnail project slick-slide slick-active"><a class="thumbnail-image" href="/projects/829501910/"><img alt="" src="//uploads.scratch.mit.edu/projects/thumbnails/829501910.png" /></a>
+                                                <div class="thumbnail-info">
+                                                    <div class="thumbnail-title"><a href="/projects/829501910/" title="Dreaming (lofi loop)">Dreaming (lofi loop)</a>
+                                                        <div class="thumbnail-creator"><a href="/users/Tabarainer/">Tabarainer</a></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="thumbnail project slick-slide slick-active"><a class="thumbnail-image" href="/projects/835983277/"><img alt="" src="//uploads.scratch.mit.edu/projects/thumbnails/835983277.png" /></a>
+                                                <div class="thumbnail-info">
+                                                    <div class="thumbnail-title"><a href="/projects/835983277/" title="Earth day virtual card">Earth day virtual card</a>
+                                                        <div class="thumbnail-creator"><a href="/users/liaoep/">liaoep</a></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div data-index="5" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="6" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="7" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="8" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="9" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="10" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="11" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="12" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="13" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="14" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="15" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="16" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="17" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="18" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="19" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                        </div>
+                                    </div><button type="button" data-role="none" class="slick-arrow slick-next" style="display: block;"> Next</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="box-header">
+                                <h4>注目のスタジオ</h4>
+                                <p><a></a></p>
+                            </div>
+                            <div class="box-content">
+                                <div class="slick-initialized slick-slider carousel"><button type="button" data-role="none" class="slick-arrow slick-prev slick-disabled" style="display: block;"> Previous</button>
+                                    <div class="slick-list">
+                                        <div class="slick-track" style="opacity: 1; transform: translate3d(0px, 0px, 0px); width: 2925px;">
+                                            <div class="thumbnail gallery slick-slide slick-active"><a class="thumbnail-image" href="/studios/33043444/"><img alt="" src="//uploads.scratch.mit.edu/galleries/thumbnails/33043444.png" /></a>
+                                                <div class="thumbnail-info">
+                                                    <div class="thumbnail-title"><a href="/studios/33043444/" title="☾ Spectacular Skateboards! ☂︎">☾ Spectacular Skateboards! ☂︎</a></div>
+                                                </div>
+                                            </div>
+                                            <div class="thumbnail gallery slick-slide slick-active"><a class="thumbnail-image" href="/studios/32974331/"><img alt="" src="//uploads.scratch.mit.edu/galleries/thumbnails/32974331.png" /></a>
+                                                <div class="thumbnail-info">
+                                                    <div class="thumbnail-title"><a href="/studios/32974331/" title="~Numbers Studio~">~Numbers Studio~</a></div>
+                                                </div>
+                                            </div>
+                                            <div class="thumbnail gallery slick-slide slick-active"><a class="thumbnail-image" href="/studios/33079952/"><img alt="" src="//uploads.scratch.mit.edu/galleries/thumbnails/33079952.png" /></a>
+                                                <div class="thumbnail-info">
+                                                    <div class="thumbnail-title"><a href="/studios/33079952/" title="Autism Awareness / Acceptance Month ">Autism Awareness / Acceptance Month </a></div>
+                                                </div>
+                                            </div>
+                                            <div class="thumbnail gallery slick-slide slick-active"><a class="thumbnail-image" href="/studios/32953825/"><img alt="" src="//uploads.scratch.mit.edu/galleries/thumbnails/32953825.png" /></a>
+                                                <div class="thumbnail-info">
+                                                    <div class="thumbnail-title"><a href="/studios/32953825/" title="The Architecture Studio">The Architecture Studio</a></div>
+                                                </div>
+                                            </div>
+                                            <div class="thumbnail gallery slick-slide"><a class="thumbnail-image" href="/studios/33038787/"><img alt="" src="//uploads.scratch.mit.edu/galleries/thumbnails/33038787.png" /></a>
+                                                <div class="thumbnail-info">
+                                                    <div class="thumbnail-title"><a href="/studios/33038787/" title="Duckling Pond">Duckling Pond</a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div><button type="button" data-role="none" class="slick-arrow slick-next" style="display: block;"> Next</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="inner mod-splash">
+                        <div class="box">
+                            <div class="box-header">
+                                <h4>スクラッチデザインスタジオ - Dreams</h4>
+                                <p><a href="/studios/32985694/">スタジオへ行く</a></p>
+                            </div>
+                            <div class="box-content">
+                                <div class="slick-initialized slick-slider carousel"><button type="button" data-role="none" class="slick-arrow slick-prev slick-disabled" style="display: block;"> Previous</button>
+                                    <div class="slick-list">
+                                        <div class="slick-track" style="opacity: 1; transform: translate3d(0px, 0px, 0px); width: 5400px;">
+                                            <div class="thumbnail project slick-slide slick-active"><a class="thumbnail-image" href="/projects/832614653/"><img alt="" src="//uploads.scratch.mit.edu/projects/thumbnails/832614653.png" /></a>
+                                                <div class="thumbnail-info">
+                                                    <div class="thumbnail-title"><a href="/projects/832614653/" title="the dreams avoid! (test)">the dreams avoid! (test)</a>
+                                                        <div class="thumbnail-creator"><a href="/users/ilikegracium/">ilikegracium</a></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="thumbnail project slick-slide slick-active"><a class="thumbnail-image" href="/projects/822608097/"><img alt="" src="//uploads.scratch.mit.edu/projects/thumbnails/822608097.png" /></a>
+                                                <div class="thumbnail-info">
+                                                    <div class="thumbnail-title"><a href="/projects/822608097/" title="why we dream: an educational comic">why we dream: an educational comic</a>
+                                                        <div class="thumbnail-creator"><a href="/users/Transcalico/">Transcalico</a></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="thumbnail project slick-slide slick-active"><a class="thumbnail-image" href="/projects/819713282/"><img alt="" src="//uploads.scratch.mit.edu/projects/thumbnails/819713282.png" /></a>
+                                                <div class="thumbnail-info">
+                                                    <div class="thumbnail-title"><a href="/projects/819713282/" title="My dreams">My dreams</a>
+                                                        <div class="thumbnail-creator"><a href="/users/IluvLuxrays/">IluvLuxrays</a></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="thumbnail project slick-slide slick-active"><a class="thumbnail-image" href="/projects/825778345/"><img alt="" src="//uploads.scratch.mit.edu/projects/thumbnails/825778345.png" /></a>
+                                                <div class="thumbnail-info">
+                                                    <div class="thumbnail-title"><a href="/projects/825778345/" title="Wichkitty’s dream">Wichkitty’s dream</a>
+                                                        <div class="thumbnail-creator"><a href="/users/witchkitty12/">witchkitty12</a></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="thumbnail project slick-slide slick-active"><a class="thumbnail-image" href="/projects/828932651/"><img alt="" src="//uploads.scratch.mit.edu/projects/thumbnails/828932651.png" /></a>
+                                                <div class="thumbnail-info">
+                                                    <div class="thumbnail-title"><a href="/projects/828932651/" title="The Dream">The Dream</a>
+                                                        <div class="thumbnail-creator"><a href="/users/suhrit4ME/">suhrit4ME</a></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div data-index="5" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="6" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="7" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="8" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="9" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="10" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="11" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="12" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="13" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="14" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="15" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="16" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="17" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="18" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                            <div data-index="19" class="slick-slide" tabindex="-1" style="outline: currentcolor;"></div>
+                                        </div>
+                                    </div><button type="button" data-role="none" class="slick-arrow slick-next" style="display: block;"> Next</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </main>
+            <footer id="footer">
+                <div class="inner">
+                    <div class="lists">
+                        <dl>
+                            <dt><span>Scratchについて</span></dt>
+                            <dd><a href="/about"><span>Scratchについて</span></a></dd>
+                            <dd><a href="/parents/"><span>保護者の方へ</span></a></dd>
+                            <dd><a href="/educators"><span>教育関係者の方へ</span></a></dd>
+                            <dd><a href="/developers"><span>開発者向け</span></a></dd>
+                            <dd><a href="/credits"><span>私たちのチーム</span></a></dd>
+                            <dd><a href="https://scratchfoundation.org/supporters"><span>寄付者</span></a></dd>
+                            <dd><a href="https://www.scratchfoundation.org/careers"><span>求人</span></a></dd>
+                            <dd><a href="https://www.scratchfoundation.org/donate"><span>寄付</span></a></dd>
+                        </dl>
+                        <dl>
+                            <dt><span>コミュニティ</span></dt>
+                            <dd><a href="/community_guidelines"><span>コミュニティーガイドライン</span></a></dd>
+                            <dd><a href="/discuss/"><span>ディスカッションフォーラム</span></a></dd>
+                            <dd><a href="https://ja.scratch-wiki.info/"><span>Scratch Wiki</span></a></dd>
+                            <dd><a href="/statistics/"><span>統計情報</span></a></dd>
+                        </dl>
+                        <dl>
+                            <dt><span>リソース</span></dt>
+                            <dd><a href="/ideas"><span>アイデア</span></a></dd>
+                            <dd><a href="/faq"><span>よくある質問</span></a></dd>
+                            <dd><a href="/download"><span>ダウンロード</span></a></dd>
+                            <dd><a href="/contact-us/"><span>連絡先</span></a></dd>
+                        </dl>
+                        <dl>
+                            <dt><span>法的表示</span></dt>
+                            <dd><a href="/terms_of_use"><span>利用規約</span></a></dd>
+                            <dd><a href="/privacy_policy"><span>プライバシー・ポリシー</span></a></dd>
+                            <dd><a href="/DMCA"><span>デジタルミレニアム著作権法（DMCA）</span></a></dd>
+                        </dl>
+                        <dl>
+                            <dt><span>関連サイト</span></dt>
+                            <dd><a href="http://scratched.gse.harvard.edu/"><span>ScratchEd</span></a></dd>
+                            <dd><a href="https://www.scratchjr.org/"><span>ScratchJr</span></a></dd>
+                            <dd><a href="http://day.scratch.mit.edu/">Scratch Day</a></dd>
+                            <dd><a href="https://www.scratchfoundation.org/scratch-conference"><span>Scratchカンファレンス</span></a></dd>
+                            <dd><a href="http://www.scratchfoundation.org/"><span>Scratch財団</span></a></dd>
+                            <dd><a href="/store"><span>Scratchストア</span></a></dd>
+                        </dl>
+                    </div>
+                    <form class="language-chooser" novalidate="">
+                        <div class="select">
+                            <div class="form-group row"><label class="control-label col-sm-3" data-required="true" for="frc-language-1088"><span class="required-symbol"> *</span></label>
+                                <div class="col-sm-9"><select class="form-control" required="" aria-label="言語の選択" name="language" id="frc-language-1088">
+                                        <option value="ab">Аҧсшәа</option>
+                                        <option value="af">Afrikaans</option>
+                                        <option value="ar">العربية</option>
+                                        <option value="am">አማርኛ</option>
+                                        <option value="an">Aragonés</option>
+                                        <option value="ast">Asturianu</option>
+                                        <option value="az">Azeri</option>
+                                        <option value="id">Bahasa Indonesia</option>
+                                        <option value="bn">বাংলা</option>
+                                        <option value="be">Беларуская</option>
+                                        <option value="bg">Български</option>
+                                        <option value="ca">Català</option>
+                                        <option value="cs">Česky</option>
+                                        <option value="cy">Cymraeg</option>
+                                        <option value="da">Dansk</option>
+                                        <option value="de">Deutsch</option>
+                                        <option value="et">Eesti</option>
+                                        <option value="el">Ελληνικά</option>
+                                        <option value="en">English</option>
+                                        <option value="es">Español (España)</option>
+                                        <option value="es-419">Español Latinoamericano</option>
+                                        <option value="eo">Esperanto</option>
+                                        <option value="eu">Euskara</option>
+                                        <option value="fa">فارسی</option>
+                                        <option value="fil">Filipino</option>
+                                        <option value="fr">Français</option>
+                                        <option value="fy">Frysk</option>
+                                        <option value="ga">Gaeilge</option>
+                                        <option value="gd">Gàidhlig</option>
+                                        <option value="gl">Galego</option>
+                                        <option value="ko">한국어</option>
+                                        <option value="ha">Hausa</option>
+                                        <option value="hy">Հայերեն</option>
+                                        <option value="he">עִבְרִית</option>
+                                        <option value="hr">Hrvatski</option>
+                                        <option value="xh">isiXhosa</option>
+                                        <option value="zu">isiZulu</option>
+                                        <option value="is">Íslenska</option>
+                                        <option value="it">Italiano</option>
+                                        <option value="ka">ქართული ენა</option>
+                                        <option value="kk">қазақша</option>
+                                        <option value="qu">Kichwa</option>
+                                        <option value="sw">Kiswahili</option>
+                                        <option value="ht">Kreyòl ayisyen</option>
+                                        <option value="ku">Kurdî</option>
+                                        <option value="ckb">کوردیی ناوەندی</option>
+                                        <option value="lv">Latviešu</option>
+                                        <option value="lt">Lietuvių</option>
+                                        <option value="hu">Magyar</option>
+                                        <option value="mi">Māori</option>
+                                        <option value="mn">Монгол хэл</option>
+                                        <option value="nl">Nederlands</option>
+                                        <option value="ja">日本語</option>
+                                        <option value="ja-Hira">にほんご</option>
+                                        <option value="nb">Norsk Bokmål</option>
+                                        <option value="nn">Norsk Nynorsk</option>
+                                        <option value="oc">Occitan</option>
+                                        <option value="or">ଓଡ଼ିଆ</option>
+                                        <option value="uz">Oʻzbekcha</option>
+                                        <option value="th">ไทย</option>
+                                        <option value="km">ភាសាខ្មែរ</option>
+                                        <option value="pl">Polski</option>
+                                        <option value="pt">Português</option>
+                                        <option value="pt-br">Português Brasileiro</option>
+                                        <option value="rap">Rapa Nui</option>
+                                        <option value="ro">Română</option>
+                                        <option value="ru">Русский</option>
+                                        <option value="nso">Sepedi</option>
+                                        <option value="tn">Setswana</option>
+                                        <option value="sk">Slovenčina</option>
+                                        <option value="sl">Slovenščina</option>
+                                        <option value="sr">Српски</option>
+                                        <option value="fi">Suomi</option>
+                                        <option value="sv">Svenska</option>
+                                        <option value="vi">Tiếng Việt</option>
+                                        <option value="tr">Türkçe</option>
+                                        <option value="uk">Українська</option>
+                                        <option value="zh-cn">简体中文</option>
+                                        <option value="zh-tw">繁體中文</option>
+                                    </select></div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </footer>
+            <aside id="donor">
+                <div id="donor-text">
+                    <div><span>Scratchは<a href="https://www.scratchfoundation.org/supporters"><span>寄付</span></a>からの支援により無料で利用できます。私たちは資金提供パートナーに感謝します:</span></div>
+                    <div><span>Massachusetts Institute of Technology、National Science Foundation、Siegel Family Endowment、LEGO Foundation。</span></div>
+                </div>
+            </aside>
+        </div>
+    </div>
+
+    <!-- Vendor & Initialize (Session & Localization)-->
+    <script src="/js/common.bundle.js"></script>
+
+    <!-- Scripts -->
+    <script src="/js/splash.intl.js"></script>
+    <script src="/js/splash.bundle.js"></script>
+    <div class="ReactModalPortal"></div>
+
+    <!-- Translate title element -->
+
+    <script>
+        var loc = window._locale || 'en';
+        if (typeof window._messages !== 'undefined' & amp; & amp; loc !== 'en') {
+            if (typeof window._messages[loc] === 'undefined') {
+                loc = loc.split('-')[0];
+            }
+            if (typeof window._messages[loc] !== 'undefined') {
+                var localizedTitle = window._messages[loc]['general.' + 'Imagine, Program, Share'.toLowerCase()] || '';
+                if (localizedTitle.length & gt; 0) {
+                    document.title = 'Scratch - ' + localizedTitle;
+                }
+            }
+        }
+    </script>
+
+
+
+</body>
+
+</html>
